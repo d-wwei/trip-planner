@@ -1,0 +1,4 @@
+.assistant/
+.DS_Store
+*.tar.gz
+trip-output/
